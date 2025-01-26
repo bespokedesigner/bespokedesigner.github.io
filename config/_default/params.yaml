@@ -38,25 +38,25 @@ font:
   #     primaryColor: "#ffffff"
   #     secondaryColor: "#212529"
 
-  # If you want to customize the menu, you can change it here
-  navbar:
-    align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
-    # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-    # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: Bespoke Designer # Brand name for the brand | default is the title variable
-    disableSearch: false
-    # searchPlaceholder: "Search"
-    stickyNavBar:
-      enable: true
-      showOnScrollUp: true
-    enableSeparator: false
-    menus:
-      disableAbout: false
-      disableExperience: false
-      disableEducation: false
-      disableProjects: false
-      disableAchievements: false
-      disableContact: false
+# If you want to customize the menu, you can change it here
+navbar:
+  align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
+  # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
+  # showBrandLogo: false # Show brand logo in nav bar | default is true
+  brandName: Bespoke Designer # Brand name for the brand | default is the title variable
+  disableSearch: true
+  # searchPlaceholder: "Search"
+  stickyNavBar:
+    enable: true
+    showOnScrollUp: false
+  enableSeparator: false
+  menus:
+    disableAbout: false
+    disableExperience: false
+    disableEducation: false
+    disableProjects: false
+    disableAchievements: false
+    disableContact: false
 
 # Hero
 hero:
@@ -64,10 +64,10 @@ hero:
   intro: "Hi, my name is"
   title: "Annette McHattie."
   subtitle: "I make graphic design work for your brand"
-  content:
-    "An experienced graphic design manager, I ensure a smooth transition from
-    concept to delivery, creating tangible results in the marketing process."
-  image: /images/hero.svg
+  content: |-
+    An experienced graphic design manager, I ensure a smooth transition from
+    concept to delivery, creating tangible results in the marketing process.
+  image: /images/hero-photo.jpg
   bottomImage:
     enable: true
   # roundImage: true # Make hero image circular | default false
@@ -77,39 +77,39 @@ hero:
     url: "#"
     download: true
     newPage: false
-  socialLinks:
-    fontAwesomeIcons:
-      - icon: fab fa-github
-        url: https://example.com
-      - icon: fab fa-x-twitter
-        url: https://example.com
-    customIcons:
-      - icon: /fav.png
-        url: "https://example.com"
+  # socialLinks:
+  #   fontAwesomeIcons:
+  #     - icon: fab fa-github
+  #       url: https://example.com
+  #     - icon: fab fa-x-twitter
+  #       url: https://example.com
+  #   customIcons:
+  #     - icon: /fav.png
+  #       url: "https://example.com"
 
 # About
 about:
   enable: true
   title: "About Me"
-  image: "/images/me.png"
+  image: "/images/about-me-photo.jpg"
   content: |-
-    I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
+    I'm a graphic design manager from Oxfordshire in the UK with vast experience spanning email, web and print design projects.
+    I have been the designer for emails sent to thousands of customers of my current employer over the last 10 years.
+    For the past 6 years I've coordinated the whole process for many campaigns; from gathering and negotiating requirements from key stakeholders to delivering the scheduled email to customers.
 
-    I am currently working on a project that will be used to help people find the best way to get around the city.
+    In my downtime, I love to play piano, read fiction, follow explorers on YouTube and keep fit through exercise and walking.
   skills:
     enable: true
     title: "Here are a few technologies I've been working with recently:"
     items:
-      - "HTML"
-      - "CSS"
-      - "JavaScript"
-      - "React"
-      - "Node"
-      - "Express"
+      - Adobe Photoshop
+      - Figma
+      - Jira
+      - AWS S3
 
 # Experience
 experience:
-  enable: true
+  enable: false
   # title: "Custom Name"
   items:
     - job: "Senior Software Developer"
@@ -174,7 +174,7 @@ experience:
 
 # Education
 education:
-  enable: true
+  enable: false
   # title: "Custom Name"
   index: false
   items:
@@ -217,7 +217,7 @@ education:
 
 # Achievements
 achievements:
-  enable: true
+  enable: false
   # title: "Custom Name"
   items:
     - title: Google kickstart runner
@@ -239,7 +239,7 @@ achievements:
 
 # projects
 projects:
-  enable: true
+  enable: false
   # title: "Custom Name"
   items:
     - title: Hugo Profile
@@ -291,15 +291,15 @@ projects:
 contact:
   enable: true
   # title: "Custom Name"
-  content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-  btnName: Mail me
-  btnLink: mailto:gurusabarisha@gmail.com
-  # formspree:
-  #   enable: true # `contact.email` value will be ignored
-  #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-  #   emailCaption: "Enter your email address"
-  #   messageCaption: "Enter your message here"
-  #   messageRows: 5
+  content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
+  btnName: Send
+  # btnLink: mailto:your_email@gmail.com
+  formspree:
+    enable: true # `contact.email` value will be ignored
+    formId: mrbeelqj # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
+    emailCaption: "Enter your email address"
+    messageCaption: "Enter your message here"
+    messageRows: 5
 
 footer:
   recentPosts:
@@ -308,12 +308,12 @@ footer:
     title: Recent Posts
     enable: true
     disableFeaturedImage: false
-  socialNetworks:
-    github: https://github.com
-    linkedin: https://linkedin.com
-    twitter: https://twitter.com
-    instagram: https://instagram.com
-    facebook: https://facebook.com
+  # socialNetworks:
+  #   github: https://github.com
+  #   linkedin: https://linkedin.com
+  #   twitter: https://twitter.com
+  #   instagram: https://instagram.com
+  #   facebook: https://facebook.com
 
 # List pages like blogs and posts
 listPages:
@@ -342,5 +342,6 @@ datesFormat:
   article: "Jan 2, 2006"
   articleList: "Jan 2, 2006"
   articleRecent: "Jan 2, 2006"
-#customScripts: -| # You can add custom scripts which will be added before </body> tag
+
+customScripts: # You can add custom scripts which will be added before </body> tag
 #  <script type="text/javascript"><!-- any script here --></script>

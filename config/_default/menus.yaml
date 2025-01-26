@@ -1,6 +1,0 @@
-main:
-  - identifier: blog
-    name: Blog
-    title: Blog posts
-    url: /blogs
-    weight: 10

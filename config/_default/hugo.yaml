@@ -6,3 +6,11 @@ sectionPagesMenu: main
 taxonomies:
   tag: tags
 preserveTaxonomyNames: true
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
