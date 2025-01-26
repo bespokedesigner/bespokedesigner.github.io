@@ -1,0 +1,8 @@
+baseURL: https://bespokedesigner.github.io/
+languageCode: en-gb
+theme: hugo-profile
+title: Bespoke Designer
+sectionPagesMenu: main
+taxonomies:
+  tag: tags
+preserveTaxonomyNames: true
