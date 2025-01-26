@@ -1,0 +1,9 @@
+# macOS files
+.DS_Store
+
+# Hugo state files
+.hugo_build.lock
+
+# Built HTML
+public/
+resources/_gen/
