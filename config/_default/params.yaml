@@ -1,5 +1,5 @@
 title: Bespoke Designer
-description: Text about my cool site
+description: "Annette McHattie: experienced graphic design manager"
 favicon: "/fav.png"
 
 # Whether to add mathjax support on all pages. Alternatively, you can opt-in per page by adding `mathjax: true` in the frontmatter.
@@ -61,9 +61,9 @@ navbar:
 # Hero
 hero:
   enable: true
-  intro: "Hi, my name is"
-  title: "Annette McHattie."
-  subtitle: "I make graphic design work for your brand"
+  intro: Hi, my name is
+  title: Annette McHattie.
+  subtitle: I make graphic design work for your brand
   content: |-
     An experienced graphic design manager, I ensure a smooth transition from
     concept to delivery, creating tangible results in the marketing process.
@@ -73,7 +73,7 @@ hero:
   # roundImage: true # Make hero image circular | default false
   button:
     enable: false
-    name: "CV"
+    name: CV
     url: "#"
     download: true
     newPage: false
