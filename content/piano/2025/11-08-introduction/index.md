@@ -3,9 +3,9 @@ title: "Blog post about Piano Practice"
 description: "This is a description that gets shared on social media"
 date: 2025-11-08
 image: "/images/image-placeholder.png"
-categories: ["Piano Practice", "Grade 2"]
 author: "Annette McHattie"
-tags: ["tempo", "sight-reading"]
+tags: ["Tempo", "Sight Reading"]
+pieces: ["L'Arabesque"]
 draft: false
 ---
 

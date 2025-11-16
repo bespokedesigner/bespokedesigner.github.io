@@ -1,0 +1,10 @@
+[taxonomies]
+tag = "tags"
+category = "categories"
+piece = "pieces"
+
+[permalinks.taxonomy]
+pieces = "piano/pieces"
+
+[permalinks.term]
+pieces = "piano/pieces/:slug"

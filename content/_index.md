@@ -22,8 +22,8 @@ features:
       - "Grade 2"
     button:
       enable: true
-      label: "Piano Blog Posts"
-      link: "/categories/piano-practice"
+      label: "Piano Blog"
+      link: "/piano"
 
   - title: "Novel Writing"
     image: "/images/feature-novel-writing.png"
@@ -32,7 +32,7 @@ features:
       - "Story Grid"
       - "My Novel"
     button:
-      enable: true
+      enable: false
       label: "Novel Blog Posts"
       link: "/categories/novel-writing"
 ---

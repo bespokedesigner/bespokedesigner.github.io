@@ -1,4 +1,4 @@
 ---
-title: "Blog Posts"
+title: "Piano"
 description: "A description of this section of the site."
 ---

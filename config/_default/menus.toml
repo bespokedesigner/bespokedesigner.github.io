@@ -1,5 +1,3 @@
-############# English navigation ##############
-
 # main menu
 [[main]]
 name = "Home"
@@ -7,13 +5,13 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "About"
-url = "/about"
+name = "Piano"
+url = "/piano"
 weight = 2
 
 [[main]]
-name = "Blog"
-url = "/blog"
+name = "Novel Writing"
+url = "/novel-writing"
 weight = 3
 
 # footer menu
@@ -23,11 +21,6 @@ url = "/about"
 weight = 1
 
 [[footer]]
-name = "Blog"
-url = "/blog"
-weight = 2
-
-[[footer]]
 name = "Privacy Policy"
 url = "/privacy-policy"
-weight = 3
+weight = 2
