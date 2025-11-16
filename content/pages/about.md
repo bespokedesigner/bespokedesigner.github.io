@@ -1,8 +1,9 @@
 ---
 title: "Hey, I'm Annette!"
 meta_title: "About"
-description: "All about Annette"
+description: "this is meta description"
 image: "/images/annette-photo.png"
+layout: "about"
 draft: false
 ---
 
