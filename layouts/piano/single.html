@@ -35,6 +35,21 @@
                 {{ end }}
               </li>
             {{ end }}
+            {{ $pieces:= .Params.pieces }}
+            {{ if $pieces }}
+              <li class="mr-4 inline-block">
+                <i class="fa-regular fa-music mr-2"></i>
+                {{ range $i,$p:= $pieces }}
+                  <a
+                    href="{{ `piano/pieces/` | relLangURL }}{{ . | urlize | lower }}/"
+                    class=""
+                    >{{ . }}{{ if ne $i (sub (len $pieces) 1) }}
+                      {{ "," }}
+                    {{ end }}
+                  </a>
+                {{ end }}
+              </li>
+            {{ end }}
             <li class="mr-4 inline-block">
               <i class="fa-regular fa-clock mr-2"></i>
               {{ time.Format ":date_long" .PublishDate }}
