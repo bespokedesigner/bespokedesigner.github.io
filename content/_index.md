@@ -32,7 +32,7 @@ features:
       - "Story Grid"
       - "My Novel"
     button:
-      enable: false
-      label: "Novel Blog Posts"
-      link: "/categories/novel-writing"
+      enable: true
+      label: "Novel Writing"
+      link: "/novel-writing"
 ---
