@@ -11,8 +11,20 @@ weight = 2
 
 [[main]]
 name = "Novel Writing"
-url = "/novel-writing"
 weight = 3
+
+[[main]]
+name = "Introduction"
+parent = "Novel Writing"
+url = "/novel-writing"
+weight = 1
+
+[[main]]
+name = "Blog"
+parent = "Novel Writing"
+url = "/novel-writing/blog"
+weight = 2
+
 
 # footer menu
 [[footer]]
