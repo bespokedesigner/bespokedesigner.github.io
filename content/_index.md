@@ -1,11 +1,13 @@
 ---
 # Banner
 banner:
-  title: "Bespoke Designer"
+  title: "Ghosts & Music"
   content: |-
-    An experienced graphic design manager, I ensure a smooth transition from concept to delivery, creating tangible results in the marketing process.
-
-    I also love to play piano, read and write fiction, follow explorers on YouTube and keep fit through exercise and walking.
+    I write stories where ghosts follow melodies, where abandoned roads remember their dead, and where a college band accidentally becomes the centre of a haunting.
+    My main project is Kell & Co, a supernatural fiction series inspired by music, memory, trauma, and found family. I’m also a musician, and every piece I practice shapes how I write — from the smallest phrasing to the way I imagine the Veil.
+    Ghosts & Music is my creative home.
+    It’s where fiction and practice meet in the middle. 
+    
   image: "/images/banner.png"
   button:
     enable: true
@@ -16,23 +18,26 @@ banner:
 features:
   - title: "My Piano Practice"
     image: "/images/feature-piano-practice.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Music shapes everything I create.
+    My piano journey runs alongside my writing, influencing the atmosphere, rhythm, and emotional tone of the Kell & Co world. I’m currently studying pieces like Sonatina in C and L’absque, building technique, confidence, and musical storytelling through daily practice.
+    
+    Here you’ll find updates on what I’m learning, how it inspires scenes in my stories, and how classical music weaves itself into the supernatural themes of Ghosts & Music."
     bulletpoints:
-      - "Grade 1"
-      - "Grade 2"
+      - "How my piano work shapes the magic of Kell & Co."
+      - "Classical pieces inspiring supernatural stories."
     button:
       enable: true
-      label: "Piano Blog"
+      label: "Follow the Practice Journey"
       link: "/piano"
 
   - title: "Novel Writing"
     image: "/images/feature-novel-writing.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "I’m currently writing Kell & Co, a supernatural coming-of-age series about ghosts, unfinished melodies, and the emotional fallout of opening the Veil. My writing blends character-driven fantasy with musical magic, friendship, trauma, humour, and the strange beauty of the unseen world."
     bulletpoints:
-      - "Story Grid"
-      - "My Novel"
+      - "Behind the scenes of Kell & Co — ghosts, music, the Veil."
+      - "Worldbuilding, updates, and short fiction."
     button:
       enable: true
-      label: "Novel Writing"
+      label: "Enter the World of Kell & Co"
       link: "/novel-writing"
 ---

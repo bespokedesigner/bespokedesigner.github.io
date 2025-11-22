@@ -23,7 +23,6 @@
         <!-- sidebar -->
         <div class="lg:col-4">
           <!-- widget -->
-          {{ partial "widgets/piano-pieces" }}
           {{ $widget:= site.Params.widgets.sidebar }}
           {{ partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) }}
         </div>
