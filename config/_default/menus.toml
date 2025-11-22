@@ -5,24 +5,36 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Piano"
-url = "/piano"
+name = "Music"
+url = "/music"
 weight = 2
 
 [[main]]
-name = "Novel Writing"
-weight = 3
-
-[[main]]
-name = "Introduction"
-parent = "Novel Writing"
-url = "/novel-writing"
+name = "Practice"
+parent = "Music"
+url = "/music/blog"
 weight = 1
 
 [[main]]
-name = "Blog"
-parent = "Novel Writing"
-url = "/novel-writing/blog"
+name = "Piano Pieces"
+parent = "Music"
+url = "/music/piano-pieces"
+weight = 2
+
+[[main]]
+name = "Writing"
+weight = 3
+
+[[main]]
+name = "Kell & Co"
+parent = "Writing"
+url = "/writing/kell-and-co"
+weight = 1
+
+[[main]]
+name = "Short Stories"
+parent = "Writing"
+url = "/writing/blog"
 weight = 2
 
 

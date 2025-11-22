@@ -1,6 +1,7 @@
 ---
-title: "Ghosts & Creativity"
+title: "Kell & Co"
 description: "My creative journey through storytelling."
+toc: false
 draft: false
 ---
 

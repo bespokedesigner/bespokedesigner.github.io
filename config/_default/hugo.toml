@@ -41,10 +41,10 @@ piece = "pieces"
 "pages" = "/:slugorcontentbasename/"
 
 [permalinks.taxonomy]
-pieces = "piano/pieces"
+pieces = "music/piano-pieces"
 
 [permalinks.term]
-pieces = "piano/pieces/:slug"
+pieces = "music/piano-pieces/:slug"
 
 
 ########################## Pagination ############################
