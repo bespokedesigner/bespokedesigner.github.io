@@ -11,17 +11,18 @@ Welcome to my novel-writing corner.
 Here you’ll find everything connected to my long-form projects — especially the supernatural, music-infused world of Kell & Co.
 
 My writing blends:
-	- Ghost lore and atmospheric horror
-	- Deep emotional character arcs
-	- Music as magic
-	- Found-family dynamics
-	- Mystery, memory, sacrifice
+
+- Ghost lore and atmospheric horror
+- Deep emotional character arcs
+- Music as magic
+- Found-family dynamics
+- Mystery, memory, sacrifice
 
 This is where the big stories live.
 
 ### Featured project: Kell & Co
 
-*Sometimes a melody is a warning. Sometimes it’s a door*
+_Sometimes a melody is a warning. Sometimes it’s a door._
 
 #### Quick Summary
 
