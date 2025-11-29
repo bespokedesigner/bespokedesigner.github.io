@@ -1,0 +1,34 @@
+{{ define "main" }}
+  {{ partial "page-header" . }}
+
+  <section class="section-sm">
+    <div class="container">
+      <div class="row justify-center">
+        <div class="gx-5">
+          <div class="content">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <!-- sub-pages -->
+        <div class="row justify-center">
+          <div class="px-8">
+            <div class="row justify-center">
+              {{ $allPages := .RegularPagesRecursive }}
+              {{ if $allPages }}
+                {{ $paginator := .Paginate $allPages }}
+                {{ range $paginator.Pages }}
+                  <div class="md:col-4 mb-14">
+                    {{ partial "components/blog-card" . }}
+                  </div>
+                {{ end }}
+              {{ end }}
+            </div>
+          </div>
+          {{ partial "components/pagination.html" . }}
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}

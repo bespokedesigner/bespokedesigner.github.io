@@ -37,3 +37,5 @@ Theo, accidentally Named by Kell;
 Ethan, furious and protective in equal measure.
 
 When a deadly haunting tied to the ancient Ridgeway military road resurfaces, Kell must choose what (and who) he’s willing to sacrifice to stop it — even if the Veil wants a part of him each time.
+
+### Explore A Little Deeper
