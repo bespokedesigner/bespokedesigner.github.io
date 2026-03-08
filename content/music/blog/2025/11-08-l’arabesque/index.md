@@ -1,11 +1,11 @@
 ---
-title: "Piano Practice"
+title: "L’Arabesque"
 description: "This is a description that gets shared on social media"
 date: 2025-11-08
 image: "/images/image-placeholder.png"
 author: "Annette McHattie"
 tags: ["Tempo", "Sight Reading"]
-pieces: ["L'Arabesque"]
+pieces: ["l’arabesque"]
 draft: false
 ---
 
