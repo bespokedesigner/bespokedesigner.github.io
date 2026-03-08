@@ -37,6 +37,12 @@ parent = "Writing"
 url = "/writing/blog"
 weight = 2
 
+[[main]]
+name = "Story Grid"
+parent = "Writing"
+url = "/writing/story-grid"
+weight = 3
+
 
 # footer menu
 [[footer]]
