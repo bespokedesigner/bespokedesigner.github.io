@@ -8,9 +8,19 @@ tags: ["story-grid", "scene"]
 draft: false
 ---
 
-## Story Notes
+## Assignment
 
-Add your overall notes about this scene here: what it needs to do, the genre conventions, the value shift, obligatory moments, etc.
+The "Take a Chance on Me" Scene teaches you how to blend physical action with meaningful dialogue while building emotional stakes through vulnerability. This scene type shows you how to maintain momentum even when characters are having a conversation or performing everyday tasks.
+
+### Outline
+
+| Beat | |
+|---|---|
+| **Inciting Incident** | Antagonist asks the Protagonist on a date |
+| **Crisis** | Trust Dilemma |
+| **Climax** | The Protagonist says yes or no |
+
+This scene pushes you beyond pure action into the more complex territory of emotional storytelling. You'll learn how to make dialogue feel natural and loaded with subtext rather than flat exposition. The key challenge is building genuine tension around a simple question — will they say yes or no? — and making that answer feel earned rather than arbitrary. You'll discover how to use physical tasks and movement to support the emotional arc instead of just filling space. The trust-based stakes teach you how vulnerability creates compelling drama without melodrama.
 
 ---
 
