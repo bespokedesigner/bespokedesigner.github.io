@@ -146,6 +146,97 @@ _This scene was written as part of the Story Grid Writer Mentorship Program Phas
 
 ---
 
+## The Finished Scene
+
+I need to say goodbye to something I could never have. I leave tomorrow to honour the betrothal and save my family.
+
+"Promise me you believe you are doing the right thing." My mother's voice.
+
+The rink is exactly as I left it. He is behind the counter. I change into my skates and push off. I glide to the bench nearest him.
+
+"Here, it's hazelnut with chocolate. Your skating drink of choice."
+
+And there he was. Standing in the same worn clothes I saw him in last Saturday. But today, he did not look away when I caught his eye. He looked like a man with something to lose.
+
+"You remember that?"
+
+"Of course. I'm a stickler for details. Especially the ones you think don't matter."
+
+I wrap my hands around the mug.
+
+"What music is inspiring you today?"
+
+"I don't have any."
+
+His fingers reach inside his jeans pocket.
+
+"Tell me — who are you trying to escape?" He pulls out a small MP3 player, complete with tangled headphones.
+
+And just like that, my heart betrays me, and I fall once again.
+
+He hands me the earbud. Our hands touch. I notice the scar he tries so hard to hide. A tangle of letters etched into his palm. He opens his mouth, hesitates, then — too fast, too hopeful — "Would you do the honour of going—"
+
+The light catches the cursed gem, holding me prisoner on my finger. I immediately hide it. His smile fades, his body goes tense. And his earbud falls to the ground with a thump. He pulls away from me.
+
+Refusing to let this be the last memory, I take both earbuds and place them in my ears. I hear the opening chords of my favourite song. My thumb brushes the ring.
+
+"It's just a playlist," he says. "Please don't make it weird!"
+
+I take out the earbud and take his hand. He pulls away.
+
+"You've never skated before, have you?"
+
+Holding out my hand. "Trust me," I say.
+
+"You go ahead," he says, as he looks at the ice. "I don't want to fall." He takes the earbud from my hand.
+
+"You won't."
+
+"You can't promise that."
+
+"If we fall, we'll do it together with style. I can promise that," I say, as I lift a loose strand of hair and tuck it behind my ear. I resume the music. He awkwardly places his scuffed Nikes on my pristine white boots. I push off into the middle of the rink. We wobble a little. I pull him in closer.
+
+"Are you sure this is a good idea?"
+
+"Probably not."
+
+The light catches the ring again.
+
+"You're thinking too much," I say, lifting his chin to look at me. "I'm trying not to." I press the earbud to his ear. A strand of hair falls loose. He reaches for it before I can. He tucks it behind my ear. I smile and blush, and my breath catches as we are now gliding as one. He is laughing. I am laughing. Gaining in confidence, he holds out his hand. I take it.
+
+I hear the door open. My smile fades. He leans in, I pull away. We fall onto the ice together. I am lying chest-first on the ice. He's already trying to stand. He apologises. I am too busy laughing. I pull him down to join me.
+
+"I'd said we'd fall in style," I whisper. That's when I notice a white, elegant envelope. Upon the cream paper are the words —
+
+> _Miss Avaline Cavendish_\
+> _You are cordially invited to attend_\
+> _The Winter Ball_\
+> _Blenheim Palace_\
+> _This evening at eight o'clock_\
+> _Hosted by Declan Spencer-Churchill, Duke of Marlborough_\
+> _In honour of his inheritance of the Blenheim estate_\
+> _As his intended._
+
+My body goes still. I read the words again.
+
+My mother said no one could truly love me. But he has always known exactly who I am. And he asked anyway.
+
+My hands are shaking as I hold on to it.
+
+We gaze into each other's eyes, and then I hear someone clear their throat. I look up to find my betrothed, dressed in all his elegant finery, staring at our closeness, his face frozen in despair. He holds out his hand to me. But I ignore it.
+
+I help Declan to his feet. He notices the gentleman. Before either of them can speak, I motion for him to stand on my boots again.
+
+Slowly, I loosen the ring from my finger.
+
+I hold it for one last moment.
+
+Then I open my hand.
+
+I push off with Declan. I notice a detail in the scar he is always trying to hide. It isn't a random jumble of letters etched into his hand. It is a reminder of exactly who he has always been.
+
+---
+
 ## Draft 1
 
 Paste your first draft here.
